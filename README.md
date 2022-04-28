@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hilfie
-- 💞️ I’m a student at WAT Poland
+- 💞️ I’m a student at WAT Poland in the field of IT
 - 🌱 I’m currently learning Networking and System Administration
 - 👀 I’m looking to collaborate on everything that catches my eye
 - 📫 How to reach me ...
